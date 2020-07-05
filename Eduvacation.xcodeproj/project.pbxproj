@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8B04F90324B04F480095A5CE /* icons8-list-48.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B04F90224B04F480095A5CE /* icons8-list-48.png */; };
+		8B04F90524B04F4D0095A5CE /* icons8-treasure-map-64.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B04F90424B04F4D0095A5CE /* icons8-treasure-map-64.png */; };
+		8B04F90924B051360095A5CE /* HomePageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B04F90824B051360095A5CE /* HomePageViewController.swift */; };
+		8B04F91124B0DB980095A5CE /* LocationData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B04F91024B0DB980095A5CE /* LocationData.swift */; };
+		8B36FDC924AF969F00965E15 /* RestManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B36FDC824AF969F00965E15 /* RestManager.swift */; };
+		8B36FDCB24AF96E800965E15 /* Structures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B36FDCA24AF96E800965E15 /* Structures.swift */; };
+		8B36FDCD24AFB49300965E15 /* PopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B36FDCC24AFB49300965E15 /* PopupViewController.swift */; };
+		8B36FDCF24AFE96900965E15 /* DestinationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B36FDCE24AFE96900965E15 /* DestinationViewController.swift */; };
+		8B36FDD124AFE99500965E15 /* CityTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B36FDD024AFE99500965E15 /* CityTableViewCell.swift */; };
+		8B36FDD524B00B6700965E15 /* checkmark.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B36FDD424B00B6700965E15 /* checkmark.png */; };
+		8B36FDD724B038DE00965E15 /* TripTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B36FDD624B038DE00965E15 /* TripTableViewCell.swift */; };
+		8B36FDD924B0391200965E15 /* MyTripsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B36FDD824B0391200965E15 /* MyTripsViewController.swift */; };
 		8B986F1124AEC87F003C2DEE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B986F1024AEC87F003C2DEE /* AppDelegate.swift */; };
 		8B986F1324AEC87F003C2DEE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B986F1224AEC87F003C2DEE /* ViewController.swift */; };
 		8B986F1624AEC87F003C2DEE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B986F1424AEC87F003C2DEE /* Main.storyboard */; };
@@ -34,6 +46,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8B04F90224B04F480095A5CE /* icons8-list-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-list-48.png"; sourceTree = "<group>"; };
+		8B04F90424B04F4D0095A5CE /* icons8-treasure-map-64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-treasure-map-64.png"; sourceTree = "<group>"; };
+		8B04F90824B051360095A5CE /* HomePageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePageViewController.swift; sourceTree = "<group>"; };
+		8B04F91024B0DB980095A5CE /* LocationData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationData.swift; sourceTree = "<group>"; };
+		8B36FDC824AF969F00965E15 /* RestManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestManager.swift; sourceTree = "<group>"; };
+		8B36FDCA24AF96E800965E15 /* Structures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Structures.swift; sourceTree = "<group>"; };
+		8B36FDCC24AFB49300965E15 /* PopupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopupViewController.swift; sourceTree = "<group>"; };
+		8B36FDCE24AFE96900965E15 /* DestinationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationViewController.swift; sourceTree = "<group>"; };
+		8B36FDD024AFE99500965E15 /* CityTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CityTableViewCell.swift; sourceTree = "<group>"; };
+		8B36FDD424B00B6700965E15 /* checkmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checkmark.png; sourceTree = "<group>"; };
+		8B36FDD624B038DE00965E15 /* TripTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripTableViewCell.swift; sourceTree = "<group>"; };
+		8B36FDD824B0391200965E15 /* MyTripsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTripsViewController.swift; sourceTree = "<group>"; };
 		8B986F0D24AEC87F003C2DEE /* Eduvacation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Eduvacation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B986F1024AEC87F003C2DEE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8B986F1224AEC87F003C2DEE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -97,9 +121,21 @@
 		8B986F0F24AEC87F003C2DEE /* Eduvacation */ = {
 			isa = PBXGroup;
 			children = (
+				8B04F91024B0DB980095A5CE /* LocationData.swift */,
+				8B04F90824B051360095A5CE /* HomePageViewController.swift */,
+				8B36FDD824B0391200965E15 /* MyTripsViewController.swift */,
+				8B36FDD624B038DE00965E15 /* TripTableViewCell.swift */,
+				8B36FDCC24AFB49300965E15 /* PopupViewController.swift */,
 				8B986F1024AEC87F003C2DEE /* AppDelegate.swift */,
 				8B986F1224AEC87F003C2DEE /* ViewController.swift */,
 				8B986F1424AEC87F003C2DEE /* Main.storyboard */,
+				8B36FDC824AF969F00965E15 /* RestManager.swift */,
+				8B36FDCA24AF96E800965E15 /* Structures.swift */,
+				8B36FDCE24AFE96900965E15 /* DestinationViewController.swift */,
+				8B36FDD024AFE99500965E15 /* CityTableViewCell.swift */,
+				8B04F90224B04F480095A5CE /* icons8-list-48.png */,
+				8B04F90424B04F4D0095A5CE /* icons8-treasure-map-64.png */,
+				8B36FDD424B00B6700965E15 /* checkmark.png */,
 				8B986F1724AEC882003C2DEE /* Assets.xcassets */,
 				8B986F1924AEC882003C2DEE /* LaunchScreen.storyboard */,
 				8B986F1C24AEC882003C2DEE /* Info.plist */,
@@ -229,7 +265,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B04F90324B04F480095A5CE /* icons8-list-48.png in Resources */,
 				8B986F1B24AEC882003C2DEE /* LaunchScreen.storyboard in Resources */,
+				8B04F90524B04F4D0095A5CE /* icons8-treasure-map-64.png in Resources */,
+				8B36FDD524B00B6700965E15 /* checkmark.png in Resources */,
 				8B986F1824AEC882003C2DEE /* Assets.xcassets in Resources */,
 				8B986F1624AEC87F003C2DEE /* Main.storyboard in Resources */,
 			);
@@ -256,8 +295,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8B36FDCD24AFB49300965E15 /* PopupViewController.swift in Sources */,
+				8B36FDD924B0391200965E15 /* MyTripsViewController.swift in Sources */,
+				8B36FDD124AFE99500965E15 /* CityTableViewCell.swift in Sources */,
+				8B36FDCF24AFE96900965E15 /* DestinationViewController.swift in Sources */,
+				8B36FDC924AF969F00965E15 /* RestManager.swift in Sources */,
+				8B36FDD724B038DE00965E15 /* TripTableViewCell.swift in Sources */,
 				8B986F1324AEC87F003C2DEE /* ViewController.swift in Sources */,
 				8B986F1124AEC87F003C2DEE /* AppDelegate.swift in Sources */,
+				8B04F90924B051360095A5CE /* HomePageViewController.swift in Sources */,
+				8B04F91124B0DB980095A5CE /* LocationData.swift in Sources */,
+				8B36FDCB24AF96E800965E15 /* Structures.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -433,6 +481,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = JKHD29C5C3;
 				INFOPLIST_FILE = Eduvacation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -450,6 +499,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = JKHD29C5C3;
 				INFOPLIST_FILE = Eduvacation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
